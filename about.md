@@ -17,8 +17,8 @@ which has been hidden by the veil of familiarity." Myth comes from the Greek
 word "μῦθος" (mythos) meaning "story". We want to tell stories with meaning and
 purpose and that convey a rich truth. Myth is a good word for that.
 
-The root idea of this project is that we as a culture have forgotton a world and
-forgotton mythology, exchanging it for secularism. The goal of this project is
+The root idea of this project is that we as a culture have forgotten a world and
+forgotten mythology, exchanging it for secularism. The goal of this project is
 to write stories that take us out of securalism and into a rich world of story,
 which we would argue is much closer to reality that most admit. As Lewis
 explained in his essay titled "Myth Became Fact"
