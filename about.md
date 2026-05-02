@@ -2,7 +2,7 @@
 
 Who are we?
 
-We are a group of Christians who want to build a fanasy world. We are inspired
+We are a group of Christians who want to build a fantasy world. We are inspired
 by Tolkien and C.S. Lewis and the outstanding works that they wrote. The idea is
 to take some of their core ideas but make it our own.
 
@@ -15,12 +15,12 @@ In a sense, we wish to write myths. As C.S. Lewis put it, "The value of myth is
 that it takes all the things you know and restores to them the rich significance
 which has been hidden by the veil of familiarity." Myth comes from the Greek
 word "μῦθος" (mythos) meaning "story". We want to tell stories with meaning and
-purpose and that convey a rich truth. Myth is a good word for that.
+purpose that convey a rich truth. Myth is a good word for that.
 
 The root idea of this project is that we as a culture have forgotten a world and
 forgotten mythology, exchanging it for secularism. The goal of this project is
-to write stories that take us out of securalism and into a rich world of story,
-which we would argue is much closer to reality that most admit. As Lewis
+to write stories that take us out of secularism and into a rich world of story,
+which we would argue is much closer to reality than most admit. As Lewis
 explained in his essay titled "Myth Became Fact"
 
 > "Now as myth transcends thought, Incarnation transcends myth. The heart of
