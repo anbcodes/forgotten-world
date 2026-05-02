@@ -19,6 +19,7 @@ body {
     margin: 0;
     font-family: Cardo, serif;
     background: radial-gradient(circle at top, #2a261f, var(--bg));
+    background-color: var(--bg);
     color: var(--ink);
 }
 
