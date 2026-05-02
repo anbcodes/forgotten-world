@@ -18,7 +18,7 @@ craftsmen, especially with gold and silver.
 but are slightly taller on average and speak rather quickly (at least according
 to some of the elvish sources). They spend a lot of time building and discussing
 but tend to disregard the other peoples. Some texts date their appearence to
-around 1000 MP although others argue they existed much early but in such small
+around 1000 MP although others argue they existed much earlier but in such small
 numbers as to not show up in most texts. Sumods tend to live around 100 years
 and have some strange ideas and beliefs. They also are some the best inventors.
 
