@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "forgotten-world",
+  // Set this to today's date
+  "compatibility_date": "2026-05-01",
+  "assets": {
+    "directory": "./dest",
+  },
+  "routes": [
+    {
+      "pattern": "world.eph429.com",
+      "custom_domain": true,
+    },
+  ],
+}

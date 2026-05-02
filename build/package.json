@@ -1,0 +1,19 @@
+{
+  "name": "w2",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "type": "module",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.1"
+  },
+  "devDependencies": {
+    "wrangler": "^4.87.0"
+  }
+}

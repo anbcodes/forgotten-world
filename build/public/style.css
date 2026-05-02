@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Cardo:wght@400;700&display=swap");
+
+:root {
+    --bg: #1b1a16;
+    --parchment: #e6dcc7;
+    --parchment-dark: #d2c4a8;
+    --ink: #2a241a;
+    --wood: #5a3e2b;
+    --wood-dark: #3d291c;
+    --leaf: #5f7d4e;
+    --accent: #a67c52;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Cardo, serif;
+    background: radial-gradient(circle at top, #2a261f, var(--bg));
+    color: var(--ink);
+}
+
+/* Layout */
+.page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+/* Header */
+.site-header {
+    text-align: center;
+    padding: 40px 20px;
+    background: linear-gradient(
+        180deg,
+        var(--parchment),
+        var(--parchment-dark)
+    );
+    border: 2px solid var(--wood);
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+
+.title {
+    font-family: "IM Fell English SC", serif;
+    font-size: 42px;
+    margin: 0;
+    letter-spacing: 2px;
+    color: var(--wood-dark);
+}
+
+.subtitle {
+    margin-top: 8px;
+    font-style: italic;
+    color: #4a3b2a;
+}
+
+/* Navigation */
+.nav {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: var(--parchment);
+    background: var(--wood);
+    padding: 8px 14px;
+    border-radius: 6px;
+    border: 1px solid var(--wood-dark);
+    transition: 0.2s ease;
+}
+
+.nav a:hover {
+    background: var(--leaf);
+    color: white;
+}
+
+.content {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    flex-direction: column;
+    min-height: calc(100vh - 400px);
+}
+
+/* Entry (main blog post) */
+.entry {
+    background: var(--parchment);
+    padding: 20px;
+    border: 2px solid var(--wood);
+    border-radius: 8px;
+    box-shadow: inset 0 0 0 1px rgba(90, 62, 43, 0.3);
+    width: 800px;
+    @media (max-width: 850px) {
+        width: 100%;
+    }
+}
+
+.entry h1:first-child {
+    font-family: "IM Fell English SC", serif;
+    margin-top: 0;
+    color: var(--wood-dark);
+}
+
+.meta {
+    font-size: 0.9em;
+    color: #6b5a44;
+    margin-bottom: 16px;
+}
+
+.text p {
+    line-height: 1.6;
+}
+
+/* Sidebar */
+.sidebar {
+    background: linear-gradient(180deg, #f1e6d2, #e0d2b6);
+    padding: 18px;
+    border: 2px solid var(--wood);
+    border-radius: 8px;
+}
+
+.sidebar h3 {
+    margin-top: 0;
+    font-family: "IM Fell English SC", serif;
+}
+
+.sidebar ul {
+    padding-left: 18px;
+}
+
+.sidebar li {
+    margin-bottom: 8px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    color: #b9a98c;
+    font-size: 0.9em;
+    height: 60px;
+}
+
+/* Subtle texture effect */
+.page::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image: url("/old-mathematics.png");
+    opacity: 0.05;
+    pointer-events: none;
+}
