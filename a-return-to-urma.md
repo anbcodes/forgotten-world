@@ -15,10 +15,10 @@ This road that they walked along was built some time ago by the older Elves. Old
 
 Elves are often found singing on their journeys. As Blandus and Hugo travelled back in the direction of Urma, they sang a most beloved song. A stanza of which sounds like the following:
 
-“To one side forest, t’other meadow
-A road which winds and bends
-Cut through glades by Elves ago
-To reach back home at journey’s end”
+“To one side forest, t’other meadow  
+A road which winds and bends  
+Cut through glades by Elves ago  
+To reach back home at journey’s end”  
 
 In the distance about two maykos away (a maykos is approximately 3 miles) lies the entrance to the city of Hinterland, known properly as Urma. While the appearance of Urma is well known to the Elves, most have never seen the city, so allow me to describe. The gate is about three lengths (1 length is about 5 feet) high, and five lengths long. There are thick walls of marble on either side of the gate which arch upwards and inwards until they join together. This gate effectively cuts through the marble wall that surrounds the entire city. Despite being tall the wall does not block the view of the city from a distance since the city itself is elevated on a large hill.
 
