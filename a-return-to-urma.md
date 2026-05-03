@@ -33,8 +33,3 @@ Then as they saw a familiar figure running towards them from the gate, they bega
 “Calia” exclaimed Hugo.
 
 “Hugo, and Blandus, you are finally back!”
-
-	As the gate came into view, the delicate workmanship of the Elves could be seen on the gate itself and the surrounding wall. Many markings cover the wall. They tell the story of the Elves and how they came to Hinterland, and then how they built the city. Of course there’s also many events which have occurred since then only the most great of which were recorded on the wall.
-	Then as they saw a familiar figure running towards them from the gate, they began to quicken their pace as well.
-	“Calia” exclaimed Hugo.
-	“Hugo, and Blandus, you are finally back!”
