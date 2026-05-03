@@ -1,5 +1,5 @@
 *A Return to Urma*  
-*The following details the return of two Elves, Hugo and Blandus, back to their home city Urma.*
+<small>*The following details the return of two Elves, Hugo and Blandus, back to their home city Urma.*</small>
 
 Along the old cracked road Blandus walked looking out upon the flattened looking hill which stretches all the way to Delve. Delve, as is known to all, is the capital of the Dwarves.
 
