@@ -6,4 +6,7 @@ Everything we've ever written, semi-organized.
 - [A Return to Urma](/tales/a-return-to-urma)
 
 ## Misc
-- [The peoples](/misc/the-peoples)
+- [Notes on the Languages][/misc/notes-on-language]
+- [Dwarvish Reference](/misc/dwarvish)
+- [Elvish Reference](/misc/elvish)
+- [The Peoples](/misc/the-peoples)
