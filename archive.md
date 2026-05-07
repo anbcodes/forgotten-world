@@ -2,5 +2,8 @@
 
 Everything we've ever written, semi-organized.
 
-- [The peoples](/the-peoples)
-- [A Return to Urma](/a-return-to-urma)
+## Tales
+- [A Return to Urma](/tales/a-return-to-urma)
+
+## Misc
+- [The peoples](/misc/the-peoples)
